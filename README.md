@@ -1,11 +1,10 @@
 # Prof.-Gustavo-Calixto
-### Repositório referente ao curso Pensamento Computacional 2023  :floppy_disk:
+### Repositório referente ao curso Pensamento Computacional 2023  :floppy_disk: :ok:
 # Linguagens utilizadas:
 - CSS
 - HTML
 
-:ok:
 
-#Softwares:
+# Softwares:
 
-:vs: code
+- :vs: code
