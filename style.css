@@ -1,7 +1,9 @@
 body {
     text-align-last: center;
-    background-color:#dadada;
+    background-color:#0a0a0a;
 }
 
 h1 {font-size: xxx-large;}
-h1 {color:#761ac2;}
+h1 {color:#e6ff02;}
+
+p {color: rgb(255, 255, 255);}
