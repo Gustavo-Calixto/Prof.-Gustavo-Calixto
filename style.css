@@ -4,11 +4,45 @@ body {
     background-color:#F4FCF9;
     margin-left: 05%;
     margin-right: 05%;
+    margin-bottom: 05%;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {font-size: xxx-large;}
-h1 {color:#913C33}
+h1 {
+    font-size: xxx-large;
+padding-top: 02%;
+padding-left: 35%;
+padding-right: 25%;
+padding-bottom: 02%;
+color:#F4FCF9; 
+background-color: #913C33;
+}
+
+h2 {padding-top: 01%;
+padding-left: 01%;
+padding-right 01%;
+padding-bottom: 02%;
+}
 
 h2 {color: #E06F62}
 p {color: #06913B}
+
+#destaque {
+    color: #F4FCF9;
+    background-color: #913;
+    padding-top: 01%;
+    padding-bottom: 01%;
+}
+#feminino {
+    color: #F4FCF9;
+    background-color: #913;
+    padding-top: 01%;
+    padding-bottom: 01%;
+}
+
+.gustavo {
+    padding-top: 02%;
+    padding-bottom: 02%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
